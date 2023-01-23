@@ -7,8 +7,6 @@ import java.util.Scanner;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  * This is a branch code
- * @author dancye
- * @author Paul Bonenfant Jan 25, 2022
  * @author Chao Yen Chou Jan 23, 2023
  * Make a change
  */
@@ -61,26 +59,26 @@ public class CardTrick {
     /**
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
-     * @author Paul Bonenfant Jan 2022
+     * @author Chao Yen Chou Jan 2023
      */
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Paul, but you can call me prof, Paul or sir");
+        System.out.println("My name is Chao Yen Chou, my friends call me Chao");
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Be more active on LinkedIn");
-        System.out.println("-- Have a semester with no violations of academic integrity!");
+        System.out.println("-- Be prepared for future jobs");
+        System.out.println("-- Be a good team player");
 	System.out.println();	
 
         System.out.println("My hobbies:");
         System.out.println("-- Investing");
-        System.out.println("-- Cooking");
-        System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding my motorcycle");
+        System.out.println("-- Playing Video Games");
+        System.out.println("-- Listening to Music");
+        System.out.println("-- Planting");
 
         System.out.println();
         
