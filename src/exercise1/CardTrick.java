@@ -40,7 +40,7 @@ public class CardTrick {
         
         for (int i = 0; i < 7; i++){
             if (guessValue == hand[i].getValue()){
-                if (guessSuit.equals(hand[i].getSuit())){
+                if (guessSuit.equalsIgnoreCase(hand[i].getSuit())){
                     printInfo();
                 }
             }
