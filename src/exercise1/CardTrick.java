@@ -26,7 +26,7 @@ public class CardTrick {
             // Hint: You can use Random -> random.nextInt(n) to get a random number between 0 and n-1 (inclusive)
             //       Don't worry about duplicates at this point
             hand[i]=card;
-            System.out.println(card.getSuit() + " " + card.getValue());
+            //System.out.println(card.getSuit() + " " + card.getValue());
         }
         
         Scanner scan = new Scanner(System.in);
@@ -61,7 +61,8 @@ public class CardTrick {
      * replace this information with your own.
      * @author Chao Yen Chou Jan 2023
      */
-    //I'm done
+    
+    //I'm done!
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
