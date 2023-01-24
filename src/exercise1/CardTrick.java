@@ -7,6 +7,8 @@ import java.util.Scanner;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  * This is a branch code
+ * @author dancye
+ * @author Paul Bonenfant Jan 25, 2022
  * @author Chao Yen Chou Jan 23, 2023
  * Make a change
  */
@@ -59,6 +61,7 @@ public class CardTrick {
     /**
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
+     * @author Paul Bonenfant Jan 25, 2022
      * @author Chao Yen Chou Jan 2023
      */
     
